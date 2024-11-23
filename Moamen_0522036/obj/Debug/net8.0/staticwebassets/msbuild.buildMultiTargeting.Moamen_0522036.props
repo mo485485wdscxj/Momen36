@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Moamen_0522036.props" />
+</Project>

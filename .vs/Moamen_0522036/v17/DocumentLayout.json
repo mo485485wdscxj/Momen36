@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\reposatories\\directoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\reposatories\\directoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\reposatories\\moviesrpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\reposatories\\moviesrpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\models\\moviesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\models\\moviesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\migrations\\20241123132319_fd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\migrations\\20241123132319_fd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132319_fd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moamen_0522036\\Migrations\\20241123132319_fd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123133008_fs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moamen_0522036\\Migrations\\20241123133008_fs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\move\\movedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\move\\movedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\move\\updatemovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\move\\updatemovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\move\\createmovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\move\\createmovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\national\\createnationakitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\national\\createnationakitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\national\\nationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\national\\nationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\national\\updatenationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\national\\updatenationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\interface\\inationalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\interface\\inationalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\interface\\idirectoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\interface\\idirectoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\models\\nationalitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\models\\nationalitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\models\\directormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\models\\directormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\directory\\directorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\directory\\directorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132232_dsdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moamen_0522036\\Migrations\\20241123132232_dsdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\directory\\createdirectorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\directory\\createdirectorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\category\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\category\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\models\\categorymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\models\\categorymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\directory\\updatedirectorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\directory\\updatedirectorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\reposatories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\reposatories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\controllers\\directorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\controllers\\directorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\reposatories\\nationalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\reposatories\\nationalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\controllers\\nationalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\controllers\\nationalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\controllers\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\controllers\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\interface\\icatregoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\interface\\icatregoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241122193828_ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moamen_0522036\\Migrations\\20241122193828_ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\interface\\imoverpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\interface\\imoverpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|c:\\users\\20115\\source\\repos\\moamen_0522036\\moamen_0522036\\moamen_0522036.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE76ED2F-B182-4F9A-89CF-93BCAF73B043}|Moamen_0522036\\Moamen_0522036.csproj|solutionrelative:moamen_0522036\\moamen_0522036.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesModel.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\MoviesModel.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Models\\MoviesModel.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\MoviesModel.cs",
+              "RelativeToolTip": "Moamen_0522036\\Models\\MoviesModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:12:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Move\\MoveDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Move\\MoveDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Move\\MoveDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Move\\MoveDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:03:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateMoveDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Move\\CreateMoveDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Move\\CreateMoveDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Move\\CreateMoveDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Move\\CreateMoveDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:03:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMoveDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Move\\UpdateMoveDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Move\\UpdateMoveDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Move\\UpdateMoveDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Move\\UpdateMoveDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:04:04.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\DirectoryRepo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Reposatories\\DirectoryRepo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\DirectoryRepo.cs",
+              "RelativeToolTip": "Moamen_0522036\\Reposatories\\DirectoryRepo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:06:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241123133008_fs.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123133008_fs.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Migrations\\20241123133008_fs.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123133008_fs.cs",
+              "RelativeToolTip": "Moamen_0522036\\Migrations\\20241123133008_fs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:30:08.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241123132319_fd.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132319_fd.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Migrations\\20241123132319_fd.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132319_fd.cs",
+              "RelativeToolTip": "Moamen_0522036\\Migrations\\20241123132319_fd.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:23:19.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesRpo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\MoviesRpo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Reposatories\\MoviesRpo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\MoviesRpo.cs",
+              "RelativeToolTip": "Moamen_0522036\\Reposatories\\MoviesRpo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:43:04.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateNationakityDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\National\\CreateNationakityDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\National\\CreateNationakityDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\National\\CreateNationakityDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\National\\CreateNationakityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:04:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241123132319_fd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132319_fd.Designer.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Migrations\\20241123132319_fd.Designer.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132319_fd.Designer.cs",
+              "RelativeToolTip": "Moamen_0522036\\Migrations\\20241123132319_fd.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:48:48.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NationalityDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\National\\NationalityDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\National\\NationalityDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\National\\NationalityDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\National\\NationalityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:04:26.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateNationalityDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\National\\UpdateNationalityDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\National\\UpdateNationalityDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\National\\UpdateNationalityDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\National\\UpdateNationalityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:04:57.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INationalRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\INationalRepo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\InterFace\\INationalRepo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\INationalRepo.cs",
+              "RelativeToolTip": "Moamen_0522036\\InterFace\\INationalRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:34:25.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateDirectoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Directory\\CreateDirectoryDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Directory\\CreateDirectoryDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Directory\\CreateDirectoryDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Directory\\CreateDirectoryDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wBEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:03:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DirectorModel.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\DirectorModel.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Models\\DirectorModel.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\DirectorModel.cs",
+              "RelativeToolTip": "Moamen_0522036\\Models\\DirectorModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:19:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Category\\CategoryDtos.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Category\\CategoryDtos.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Category\\CategoryDtos.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Category\\CategoryDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:02:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\AppDbContext.cs",
+              "RelativeToolTip": "Moamen_0522036\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:25:58.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NationalityModel.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\NationalityModel.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Models\\NationalityModel.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\NationalityModel.cs",
+              "RelativeToolTip": "Moamen_0522036\\Models\\NationalityModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:22:31.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDirectoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\IDirectoryRepo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\InterFace\\IDirectoryRepo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\IDirectoryRepo.cs",
+              "RelativeToolTip": "Moamen_0522036\\InterFace\\IDirectoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:34:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Program.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Program.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Program.cs",
+              "RelativeToolTip": "Moamen_0522036\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:25:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryMode.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\CategoryMode.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Models\\CategoryMode.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Models\\CategoryMode.cs",
+              "RelativeToolTip": "Moamen_0522036\\Models\\CategoryMode.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:21:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DirectoryDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Directory\\DirectoryDtos.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Directory\\DirectoryDtos.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Directory\\DirectoryDtos.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Directory\\DirectoryDtos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:03:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241123132232_dsdf.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132232_dsdf.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Migrations\\20241123132232_dsdf.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241123132232_dsdf.cs",
+              "RelativeToolTip": "Moamen_0522036\\Migrations\\20241123132232_dsdf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:22:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateDirectoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Directory\\UpdateDirectoryDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Directory\\UpdateDirectoryDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Directory\\UpdateDirectoryDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Directory\\UpdateDirectoryDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:03:29.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Reposatories\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\CategoryRepo.cs",
+              "RelativeToolTip": "Moamen_0522036\\Reposatories\\CategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:47:31.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:02:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Category\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Dtos\\Category\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Dtos\\Category\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Moamen_0522036\\Dtos\\Category\\CreateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:02:46.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DirectoryController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\DirectoryController.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Controllers\\DirectoryController.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\DirectoryController.cs",
+              "RelativeToolTip": "Moamen_0522036\\Controllers\\DirectoryController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:56:16.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\appsettings.json",
+              "RelativeDocumentMoniker": "Moamen_0522036\\appsettings.json",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\appsettings.json",
+              "RelativeToolTip": "Moamen_0522036\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T12:24:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Moamen_0522036\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:55:18.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\WeatherForecast.cs",
+              "RelativeToolTip": "Moamen_0522036\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:29:24.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NationalRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\NationalRepo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Reposatories\\NationalRepo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Reposatories\\NationalRepo.cs",
+              "RelativeToolTip": "Moamen_0522036\\Reposatories\\NationalRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:50:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MoveController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\MoveController.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Controllers\\MoveController.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\MoveController.cs",
+              "RelativeToolTip": "Moamen_0522036\\Controllers\\MoveController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:00:15.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NationalityController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\NationalityController.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Controllers\\NationalityController.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\NationalityController.cs",
+              "RelativeToolTip": "Moamen_0522036\\Controllers\\NationalityController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAwwBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:06:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICatregoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\ICatregoryRepo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\InterFace\\ICatregoryRepo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\ICatregoryRepo.cs",
+              "RelativeToolTip": "Moamen_0522036\\InterFace\\ICatregoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:33:36.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241122193828_ds.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241122193828_ds.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Migrations\\20241122193828_ds.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Migrations\\20241122193828_ds.cs",
+              "RelativeToolTip": "Moamen_0522036\\Migrations\\20241122193828_ds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:38:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IMoveRpo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\IMoveRpo.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\InterFace\\IMoveRpo.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\InterFace\\IMoveRpo.cs",
+              "RelativeToolTip": "Moamen_0522036\\InterFace\\IMoveRpo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:33:50.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Moamen_0522036\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:03:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Moamen_0522036.csproj",
+              "DocumentMoniker": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Moamen_0522036.csproj",
+              "RelativeDocumentMoniker": "Moamen_0522036\\Moamen_0522036.csproj",
+              "ToolTip": "C:\\Users\\20115\\source\\repos\\Moamen_0522036\\Moamen_0522036\\Moamen_0522036.csproj",
+              "RelativeToolTip": "Moamen_0522036\\Moamen_0522036.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T12:33:05.648Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
